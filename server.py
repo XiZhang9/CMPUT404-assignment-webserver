@@ -1,7 +1,6 @@
 #  coding: utf-8 
 import SocketServer
 import os.path
-import webbrowser
 
 # Copyright 2013 Abram Hindle, Eddie Antonio Santos
 # Modified 2016 Han Wang, Xi Zhang
